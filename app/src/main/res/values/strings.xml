@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tobíkova Aplikace</string>
+    <string name="image_view">Image view to animate</string>
+    <string name="enlarged_image_view">Enlarged image view</string>
+</resources>
